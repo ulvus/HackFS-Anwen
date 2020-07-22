@@ -8,7 +8,6 @@ https://github.com/anwen/HackFS-Anwen
 
 https://github.com/askender
 
-https://github.com/ulvus
 
 HackFS storage, article, and rewards.
 
